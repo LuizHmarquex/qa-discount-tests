@@ -1,4 +1,4 @@
-# 🐞 Bugs encontrados
+# Bugs encontrados
 
 Bug 001  
 Descrição: Sistema aplica descontos acumulativos  
